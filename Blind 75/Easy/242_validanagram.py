@@ -33,7 +33,7 @@ class Solution(object):
     def compare_anagrams()
         
         
-
+# 1 -134 ??'
 
 
 
@@ -42,6 +42,8 @@ s_string= input("Type the second string (to compare) : ").lower().replace(" ",""
 
 lenght = len(t_string)
 backwards_t = []
+
+x = 56Ñ
 
 
 
